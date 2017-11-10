@@ -1,0 +1,22 @@
+
+.track {
+    color:rgba(65, 142, 224, 0.75);
+}
+
+#product1{
+    border: 2px mediumturquoise solid;
+}
+
+#product2{
+    text-decoration: underline;
+    color:#DA2F98;
+}
+
+#product3{
+    border: 4px goldenrod dashed;
+}
+
+#product4{
+    border-bottom: 10px dashed salmon;
+
+}
